@@ -1,2 +1,2 @@
 # portfolio
- Meu portfólio de programador para exposição de projetos
+ Meu portfólio de programador para exposição de projetos.
